@@ -1,0 +1,16 @@
+PODS:
+  - Alamofire (5.8.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+
+SPEC CHECKSUMS:
+  Alamofire: 0e92e751b3e9e66d7982db43919d01f313b8eb91
+
+PODFILE CHECKSUM: d9aa06b73e287ea49d59ae009070c237abdfe840
+
+COCOAPODS: 1.12.1
