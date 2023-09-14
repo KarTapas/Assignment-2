@@ -79,7 +79,7 @@ struct LoginView: View {
                         .foregroundColor(.red)
                 }
                 .offset(y: -100)
- //               .disabled(isLoginButtonDisabled)
+             .disabled(isLoginButtonDisabled)
 
                 Button(action: {
                     // Handle Forgot Password action
